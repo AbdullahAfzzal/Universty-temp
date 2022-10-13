@@ -1,1 +1,1 @@
-# Universty-temp
+# University-temp
